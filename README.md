@@ -1,29 +1,31 @@
-<h1 align="center">Hi, I'm Daniel Andrade</h1>
+<h1 align="center">Hi, I'm Daniel Andrade 👋</h1>
+
 <p align="center">
-  <b>SAP ABAP Developer (S/4HANA Public Cloud)</b><br/>
-  CDS, RAP, OData, Key User Extensibility, Fiori. Backend background in Java.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0FAAFF&center=true&vCenter=true&width=520&lines=SAP+ABAP+Developer;SAP+S%2F4HANA+Public+Cloud;From+Java+backend+to+ABAP" alt="typing banner" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgppa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:danielgppa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=danielgppa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/danielgppa?tab=followers"><img src="https://img.shields.io/github/followers/danielgppa?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/></a>
 </p>
 
 ---
 
-### About me
+### 🧑‍💻 About me
 
-Developer focused on SAP ABAP. I came to the SAP ecosystem from a backend background in Java and Spring Boot, and today I work on the greenfield implementation of a SAP S/4HANA Public Cloud project.
+Developer focused on **SAP ABAP**. I came to the SAP ecosystem from a backend background in Java and Spring Boot, and today I work on the **greenfield implementation of a SAP S/4HANA Public Cloud** project.
 
-- Working with: ABAP, OO ABAP, CDS, RAP, OData, Key User Extensibility, SAP Fiori, S/4HANA Public Cloud
-- Backend background: Java (8 and 17), Spring Boot, REST APIs, SQL, Docker, Scrum
-- Goal: grow as a SAP ABAP Developer and Consultant on S/4HANA projects
+- 🔹 **Working with:** ABAP, OO ABAP, CDS, RAP, OData, Key User Extensibility, SAP Fiori, S/4HANA Public Cloud
+- 🔹 **Backend background:** Java (8 and 17), Spring Boot, REST APIs, SQL, Docker, Scrum
+- 🎯 **Goal:** grow as a SAP ABAP Developer and Consultant on S/4HANA projects
 
 ---
 
-### Tech
+### 🛠️ Tech Stack
 
-SAP and ABAP:
+**SAP & ABAP**<br/>
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![S4HANA](https://img.shields.io/badge/SAP%20S4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![CDS](https://img.shields.io/badge/CDS%20Views-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -31,7 +33,7 @@ SAP and ABAP:
 ![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-Backend and tools:
+**Backend & Tools**<br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -40,13 +42,6 @@ Backend and tools:
 
 ---
 
-### GitHub
+<p align="center"><i>Open to SAP ABAP opportunities on S/4HANA projects.</i></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielgppa&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgppa&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-<!--
-Keep bio, README and LinkedIn aligned. Never publish client code or specs.
--->
+<!-- Keep bio, README and LinkedIn aligned. Never publish client code or specs. -->
