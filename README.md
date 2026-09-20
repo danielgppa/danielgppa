@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgppa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:danielgppa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=danielgppa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/danielgppa?tab=followers"><img src="https://img.shields.io/github/followers/danielgppa?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/></a>
 </p>
 
 ---
@@ -37,11 +35,6 @@ Developer focused on **SAP ABAP**. I came to the SAP ecosystem from a backend ba
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-<p align="center"><i>Open to SAP ABAP opportunities on S/4HANA projects.</i></p>
 
 <!-- Keep bio, README and LinkedIn aligned. Never publish client code or specs. -->
